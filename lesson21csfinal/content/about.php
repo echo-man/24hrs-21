@@ -44,7 +44,8 @@ $items[] = new Contact(array('first_name'=>'Sarah',
  'phone'=>'555-123-5555'));
 
 ?>
-<h1>About Us</h1>
+<h1>About Us<a class="button" href="index.php?content=contactmaint&id=0 i
+?>">Add</a></h1>
 <p>We are all happy to be a part of this. Please contact any of us with questions.</p>
 
 <ul class="ulfancy">
